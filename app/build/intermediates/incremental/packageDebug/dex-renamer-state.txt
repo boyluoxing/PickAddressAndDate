@@ -1,7 +1,0 @@
-#Mon Sep 12 23:29:28 CST 2016
-base.0=E\:\\develop\\studio\\workspace\\PickAddressAndBirth\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_50feebd6a6746e352ca700845be57b11a637d2f5
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=E\:\\develop\\studio\\workspace\\PickAddressAndBirth\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ab00088b5e7d42f5ae9bc49560f0cacc8012c60f\\classes.dex
-base.1=E\:\\develop\\studio\\workspace\\PickAddressAndBirth\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ab00088b5e7d42f5ae9bc49560f0cacc8012c60f
-file.0=E\:\\develop\\studio\\workspace\\PickAddressAndBirth\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_50feebd6a6746e352ca700845be57b11a637d2f5\\classes.dex
