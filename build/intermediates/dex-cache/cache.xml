@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_771a066f855ecc51320ba1bd42b0b383b809178c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_3f67b2ae729f010cec07065252f93ac762500a0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_25b461ace707377c6e600c754ee7830cb3e8ead7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_927b43c6717a28e994855cf2b8f86fbb1d625da7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_3611a03e3e6446314b880636e5bbffb6c60ac28e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_0f91fdf6ccf14d1ed60b519db0264b7445c23b02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_8ef7a39e2631d6bc2b90f88d87d2191201b437e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f3af42b6c189493ce96c1e7af44badb9dada296">
+        <dex dex="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ab00088b5e7d42f5ae9bc49560f0cacc8012c60f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_a2ac7b5a50ffb23f15b036decd549248d26d9bd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_6da454762d9ce60130c1444d605480f4ed2c2fc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_9ce6710bb510114a7ac5f7dd0f544343ff680095\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_1a2e256e6eb6764086fb4822b7f36e3ac29c85fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_3f4b61998219fc82f4db69b2b309e9c091da5cb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e5ec626f2bcd308112a800499ca11b8cefa369e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="891d0e2822290f3c24f06b5dbd989c837160a605">
+        <dex dex="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_50feebd6a6746e352ca700845be57b11a637d2f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_fe792046f0dc1e9b46f28a8759b0d60868ca91f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\develop\studio\workspace\PickAddressAndBirth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_9c1d9810558dc140067973c1fbf818ef05a67c3c\classes.dex" />
+    </item>
+
+</items>
